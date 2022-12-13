@@ -28,3 +28,9 @@ Plans
     Map use, map search
 
     This will a´mean addednavigation
+    
+Screenshots    
+    
+ ![image](https://user-images.githubusercontent.com/48893686/207206219-8fccabf9-8833-4820-85fa-11b4d8c28628.png)
+    
+![image](https://user-images.githubusercontent.com/48893686/207206252-c09bf66c-6ec5-4857-a7ef-808b2af1024d.png)
